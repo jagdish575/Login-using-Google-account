@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles
+/static
+*.sqlite3
+
+# If you are using PostgreSQL, MySQL, etc. you can exclude database dumps
+*.sql
+*.sqlite
+
+# Django migrations
+**/migrations/*
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+*.egg-info/
+.dist-info
+.eggs/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.*
+.cache
+nosetests.xml
+pytest.xml
+test_results/
+junit.xml
+
+
+
+
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+__pycache__/
+*.swp
+
+
+
+
+
+
+# Log files
+*.log
+
+# Local development files
+.env
+*.local
+*.lock
+
+
+
